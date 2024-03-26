@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="NONE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="f02ddcfa-0b47-4b12-82ac-176d3e381c76" name="Changes" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ClangdSettings">
+    <option name="formatViaClangd" value="false" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Dart File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 7
+}</component>
+  <component name="ProjectId" id="2e8Mxcdb3eSR5ARt5wXseheTbfJ" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.cidr.known.project.marker&quot;: &quot;true&quot;,
+    &quot;cf.first.check.clang-format&quot;: &quot;false&quot;,
+    &quot;cidr.known.project.marker&quot;: &quot;true&quot;,
+    &quot;dart.analysis.tool.window.visible&quot;: &quot;false&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Flutter/flutter/bin/cache/dart-sdk&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;dart.settings&quot;,
+    &quot;show.migrate.to.gradle.popup&quot;: &quot;false&quot;
+  }
+}</component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\Pichau\Desktop\Dart\TreinoDart\Arquivos" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Dart Command Line App.Texto.dart">
+    <configuration name="Boolean.dart" type="DartCommandLineRunConfigurationType" factoryName="Dart Command Line Application" temporary="true" nameIsGenerated="true">
+      <option name="filePath" value="$PROJECT_DIR$/Arquivos/Boolean.dart" />
+      <option name="workingDirectory" value="$PROJECT_DIR$/Arquivos" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Final_Const.dart" type="DartCommandLineRunConfigurationType" factoryName="Dart Command Line Application" temporary="true" nameIsGenerated="true">
+      <option name="filePath" value="$PROJECT_DIR$/Arquivos/Final_Const.dart" />
+      <option name="workingDirectory" value="$PROJECT_DIR$/Arquivos" />
+      <method v="2" />
+    </configuration>
+    <configuration name="LateVariaveis.dart" type="DartCommandLineRunConfigurationType" factoryName="Dart Command Line Application" temporary="true" nameIsGenerated="true">
+      <option name="filePath" value="$PROJECT_DIR$/Arquivos/LateVariaveis.dart" />
+      <option name="workingDirectory" value="$PROJECT_DIR$/Arquivos" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Numeros.dart" type="DartCommandLineRunConfigurationType" factoryName="Dart Command Line Application" temporary="true" nameIsGenerated="true">
+      <option name="filePath" value="$PROJECT_DIR$/Arquivos/Numeros.dart" />
+      <option name="workingDirectory" value="$PROJECT_DIR$/Arquivos" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Texto.dart" type="DartCommandLineRunConfigurationType" factoryName="Dart Command Line Application" temporary="true" nameIsGenerated="true">
+      <option name="filePath" value="$PROJECT_DIR$/Arquivos/Texto.dart" />
+      <option name="workingDirectory" value="$PROJECT_DIR$/Arquivos" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Dart Command Line App.Texto.dart" />
+        <item itemvalue="Dart Command Line App.Boolean.dart" />
+        <item itemvalue="Dart Command Line App.Numeros.dart" />
+        <item itemvalue="Dart Command Line App.Final_Const.dart" />
+        <item itemvalue="Dart Command Line App.LateVariaveis.dart" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="f02ddcfa-0b47-4b12-82ac-176d3e381c76" name="Changes" comment="" />
+      <created>1711281999926</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1711281999926</updated>
+    </task>
+    <servers />
+  </component>
+</project>
