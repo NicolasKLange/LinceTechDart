@@ -11,3 +11,4 @@ void main() {
     'A media entre [ ${valor1.toStringAsFixed(1)} , ${valor2.toStringAsFixed(1)} , ${valor3.toStringAsFixed(1)} , ${valor4.toStringAsFixed(1)} ] = ${media.toStringAsFixed(1)}',
   );
 }
+//.toStringAsFixed(1) > deixa só um decimal
