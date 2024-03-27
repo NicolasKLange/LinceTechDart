@@ -1,13 +1,13 @@
 void main() {
   // Declarando as variáveis
-  String nome = "Nicolas";
-  String sobrenome = "Lange";
-  int idade = 17;
-  bool ativo = true;
-  double peso = 81.4;
+  String  nome          = "Nicolas";
+  String  sobrenome     = "Lange";
+  int     idade         = 17;
+  bool    ativo         = true;
+  double  peso          = 81.4;
   String? nacionalidade = "Brasil";
 
-  // Imprimir no console, com a formatação especificada
+  // *** SAIDA DE DADOS ***
   print("Nome completo: $nome $sobrenome");
 
   if (idade >= 18) {
@@ -22,7 +22,7 @@ void main() {
     print("Situação: Inativo");
   }
 
-  print("Peso: ${peso.toStringAsFixed(2)}");
+  print("Peso: $peso");
 
   if (nacionalidade != null) {
     print("Nacionalidade: $nacionalidade");
