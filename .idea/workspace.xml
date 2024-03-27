@@ -4,7 +4,10 @@
     <option name="autoReloadType" value="NONE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="f02ddcfa-0b47-4b12-82ac-176d3e381c76" name="Changes" comment="" />
+    <list default="true" id="f02ddcfa-0b47-4b12-82ac-176d3e381c76" name="Changes" comment="Atividade 1 variaveis">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ap1_variaveis/ap1.dart" beforeDir="false" afterPath="$PROJECT_DIR$/ap1_variaveis/ap1.dart" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -22,6 +25,20 @@
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;NicolasKLange&quot;
+  }
+}</component>
+  <component name="GithubPullRequestsUISettings">
+    <option name="selectedUrlAndAccountId">
+      <UrlAndAccount>
+        <option name="accountId" value="043ec2f2-0812-4071-9105-6f8cfb439485" />
+        <option name="url" value="https://github.com/NicolasKLange/LinceTechDart.git" />
+      </UrlAndAccount>
+    </option>
   </component>
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 7
@@ -50,7 +67,7 @@
       <recent name="C:\Users\Pichau\Desktop\Dart\TreinoDart\Arquivos" />
     </key>
   </component>
-  <component name="RunManager" selected="Dart Command Line App.Texto.dart">
+  <component name="RunManager" selected="Dart Command Line App.ap1.dart">
     <configuration name="Boolean.dart" type="DartCommandLineRunConfigurationType" factoryName="Dart Command Line Application" temporary="true" nameIsGenerated="true">
       <option name="filePath" value="$PROJECT_DIR$/Arquivos/Boolean.dart" />
       <option name="workingDirectory" value="$PROJECT_DIR$/Arquivos" />
@@ -58,11 +75,6 @@
     </configuration>
     <configuration name="Final_Const.dart" type="DartCommandLineRunConfigurationType" factoryName="Dart Command Line Application" temporary="true" nameIsGenerated="true">
       <option name="filePath" value="$PROJECT_DIR$/Arquivos/Final_Const.dart" />
-      <option name="workingDirectory" value="$PROJECT_DIR$/Arquivos" />
-      <method v="2" />
-    </configuration>
-    <configuration name="LateVariaveis.dart" type="DartCommandLineRunConfigurationType" factoryName="Dart Command Line Application" temporary="true" nameIsGenerated="true">
-      <option name="filePath" value="$PROJECT_DIR$/Arquivos/LateVariaveis.dart" />
       <option name="workingDirectory" value="$PROJECT_DIR$/Arquivos" />
       <method v="2" />
     </configuration>
@@ -76,13 +88,18 @@
       <option name="workingDirectory" value="$PROJECT_DIR$/Arquivos" />
       <method v="2" />
     </configuration>
+    <configuration name="ap1.dart" type="DartCommandLineRunConfigurationType" factoryName="Dart Command Line Application" temporary="true" nameIsGenerated="true">
+      <option name="filePath" value="$PROJECT_DIR$/ap1_variaveis/ap1.dart" />
+      <option name="workingDirectory" value="$PROJECT_DIR$/ap1_variaveis" />
+      <method v="2" />
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Dart Command Line App.ap1.dart" />
         <item itemvalue="Dart Command Line App.Texto.dart" />
         <item itemvalue="Dart Command Line App.Boolean.dart" />
         <item itemvalue="Dart Command Line App.Numeros.dart" />
         <item itemvalue="Dart Command Line App.Final_Const.dart" />
-        <item itemvalue="Dart Command Line App.LateVariaveis.dart" />
       </list>
     </recent_temporary>
   </component>
@@ -95,6 +112,20 @@
       <option name="presentableId" value="Default" />
       <updated>1711281999926</updated>
     </task>
+    <task id="LOCAL-00001" summary="Atividade 1 variaveis">
+      <option name="closed" value="true" />
+      <created>1711495571348</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1711495571348</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Atividade 1 d&#10;variaveis" />
+    <MESSAGE value="Atividade 1 variaveis" />
+    <option name="LAST_COMMIT_MESSAGE" value="Atividade 1 variaveis" />
   </component>
 </project>
