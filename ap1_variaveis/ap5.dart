@@ -15,11 +15,11 @@ class Pessoa {
       );
 
   // Declarando as variáveis
-  final String nome;
-  final String sobrenome;
-  final int idade;
-  final bool ativo;
-  final double peso;
+  final String  nome;
+  final String  sobrenome;
+  final int     idade;
+  final bool    ativo;
+  final double  peso;
   final String? nacionalidade;
 
   //Criaçãoo do override para sempre que for chamado o toString, imprimir os dados nesta formatação
