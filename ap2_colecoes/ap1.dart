@@ -11,5 +11,5 @@ void main() {
   // Imprimindo a lista final
   for (var indice = 0; indice < lista.length; indice++) {
     print('Posicao: $indice, Valor: ${lista[indice]}');
-  }
+  }        
 }
