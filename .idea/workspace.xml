@@ -6,7 +6,6 @@
   <component name="ChangeListManager">
     <list default="true" id="f02ddcfa-0b47-4b12-82ac-176d3e381c76" name="Changes" comment="Atividade 1 variaveis">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ap1_variaveis/ap1.dart" beforeDir="false" afterPath="$PROJECT_DIR$/ap1_variaveis/ap1.dart" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -44,6 +43,9 @@
   &quot;associatedIndex&quot;: 7
 }</component>
   <component name="ProjectId" id="2e8Mxcdb3eSR5ARt5wXseheTbfJ" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -64,42 +66,43 @@
 }</component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\Pichau\Desktop\Dart\TreinoDart\Arquivos2" />
       <recent name="C:\Users\Pichau\Desktop\Dart\TreinoDart\Arquivos" />
     </key>
   </component>
   <component name="RunManager" selected="Dart Command Line App.ap1.dart">
-    <configuration name="Boolean.dart" type="DartCommandLineRunConfigurationType" factoryName="Dart Command Line Application" temporary="true" nameIsGenerated="true">
-      <option name="filePath" value="$PROJECT_DIR$/Arquivos/Boolean.dart" />
-      <option name="workingDirectory" value="$PROJECT_DIR$/Arquivos" />
-      <method v="2" />
-    </configuration>
-    <configuration name="Final_Const.dart" type="DartCommandLineRunConfigurationType" factoryName="Dart Command Line Application" temporary="true" nameIsGenerated="true">
-      <option name="filePath" value="$PROJECT_DIR$/Arquivos/Final_Const.dart" />
-      <option name="workingDirectory" value="$PROJECT_DIR$/Arquivos" />
-      <method v="2" />
-    </configuration>
-    <configuration name="Numeros.dart" type="DartCommandLineRunConfigurationType" factoryName="Dart Command Line Application" temporary="true" nameIsGenerated="true">
-      <option name="filePath" value="$PROJECT_DIR$/Arquivos/Numeros.dart" />
-      <option name="workingDirectory" value="$PROJECT_DIR$/Arquivos" />
-      <method v="2" />
-    </configuration>
-    <configuration name="Texto.dart" type="DartCommandLineRunConfigurationType" factoryName="Dart Command Line Application" temporary="true" nameIsGenerated="true">
-      <option name="filePath" value="$PROJECT_DIR$/Arquivos/Texto.dart" />
-      <option name="workingDirectory" value="$PROJECT_DIR$/Arquivos" />
-      <method v="2" />
-    </configuration>
     <configuration name="ap1.dart" type="DartCommandLineRunConfigurationType" factoryName="Dart Command Line Application" temporary="true" nameIsGenerated="true">
-      <option name="filePath" value="$PROJECT_DIR$/ap1_variaveis/ap1.dart" />
-      <option name="workingDirectory" value="$PROJECT_DIR$/ap1_variaveis" />
+      <option name="filePath" value="$PROJECT_DIR$/ap2_colecoes/ap1.dart" />
+      <option name="workingDirectory" value="$PROJECT_DIR$/ap2_colecoes" />
+      <method v="2" />
+    </configuration>
+    <configuration name="conjuntos.dart" type="DartCommandLineRunConfigurationType" factoryName="Dart Command Line Application" temporary="true" nameIsGenerated="true">
+      <option name="filePath" value="$PROJECT_DIR$/Arquivos2/conjuntos.dart" />
+      <option name="workingDirectory" value="$PROJECT_DIR$/Arquivos2" />
+      <method v="2" />
+    </configuration>
+    <configuration name="exemploMaps.dart" type="DartCommandLineRunConfigurationType" factoryName="Dart Command Line Application" temporary="true" nameIsGenerated="true">
+      <option name="filePath" value="$PROJECT_DIR$/Arquivos2/exemploMaps.dart" />
+      <option name="workingDirectory" value="$PROJECT_DIR$/Arquivos2" />
+      <method v="2" />
+    </configuration>
+    <configuration name="listas.dart" type="DartCommandLineRunConfigurationType" factoryName="Dart Command Line Application" temporary="true" nameIsGenerated="true">
+      <option name="filePath" value="$PROJECT_DIR$/Arquivos2/listas.dart" />
+      <option name="workingDirectory" value="$PROJECT_DIR$/Arquivos2" />
+      <method v="2" />
+    </configuration>
+    <configuration name="mapas.dart" type="DartCommandLineRunConfigurationType" factoryName="Dart Command Line Application" temporary="true" nameIsGenerated="true">
+      <option name="filePath" value="$PROJECT_DIR$/Arquivos2/mapas.dart" />
+      <option name="workingDirectory" value="$PROJECT_DIR$/Arquivos2" />
       <method v="2" />
     </configuration>
     <recent_temporary>
       <list>
         <item itemvalue="Dart Command Line App.ap1.dart" />
-        <item itemvalue="Dart Command Line App.Texto.dart" />
-        <item itemvalue="Dart Command Line App.Boolean.dart" />
-        <item itemvalue="Dart Command Line App.Numeros.dart" />
-        <item itemvalue="Dart Command Line App.Final_Const.dart" />
+        <item itemvalue="Dart Command Line App.exemploMaps.dart" />
+        <item itemvalue="Dart Command Line App.mapas.dart" />
+        <item itemvalue="Dart Command Line App.conjuntos.dart" />
+        <item itemvalue="Dart Command Line App.listas.dart" />
       </list>
     </recent_temporary>
   </component>
