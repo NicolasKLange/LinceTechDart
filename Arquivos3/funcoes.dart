@@ -30,4 +30,4 @@ void main() {
 
 }
   //pode usar a funcao dentro, ou fora do escopo, desse jeito a funcao esta encurtada
-  num soma(num val1, num val2) => val1 + val2;
+  num soma(num val1, num val2) => val1 + val2;  
