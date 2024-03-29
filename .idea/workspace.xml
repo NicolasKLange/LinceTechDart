@@ -5,7 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="f02ddcfa-0b47-4b12-82ac-176d3e381c76" name="Changes" comment="Atividade 1 variaveis">
-      <change beforePath="$PROJECT_DIR$/ap3_funcoes/ap1.dart" beforeDir="false" afterPath="$PROJECT_DIR$/ap3_funcoes/ap1.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ap3_funcoes/ap2.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -70,9 +71,14 @@
       <recent name="C:\Users\Pichau\Desktop\Dart\TreinoDart\Arquivos" />
     </key>
   </component>
-  <component name="RunManager" selected="Dart Command Line App.ap1.dart">
+  <component name="RunManager" selected="Dart Command Line App.ap2.dart">
     <configuration name="ap1.dart" type="DartCommandLineRunConfigurationType" factoryName="Dart Command Line Application" temporary="true" nameIsGenerated="true">
       <option name="filePath" value="$PROJECT_DIR$/ap3_funcoes/ap1.dart" />
+      <option name="workingDirectory" value="$PROJECT_DIR$/ap3_funcoes" />
+      <method v="2" />
+    </configuration>
+    <configuration name="ap2.dart" type="DartCommandLineRunConfigurationType" factoryName="Dart Command Line Application" temporary="true" nameIsGenerated="true">
+      <option name="filePath" value="$PROJECT_DIR$/ap3_funcoes/ap2.dart" />
       <option name="workingDirectory" value="$PROJECT_DIR$/ap3_funcoes" />
       <method v="2" />
     </configuration>
@@ -86,11 +92,6 @@
       <option name="workingDirectory" value="$PROJECT_DIR$/Arquivos3" />
       <method v="2" />
     </configuration>
-    <configuration name="funcoes.dart" type="DartCommandLineRunConfigurationType" factoryName="Dart Command Line Application" temporary="true" nameIsGenerated="true">
-      <option name="filePath" value="$PROJECT_DIR$/Arquivos3/funcoes.dart" />
-      <option name="workingDirectory" value="$PROJECT_DIR$/Arquivos3" />
-      <method v="2" />
-    </configuration>
     <configuration name="parametros.dart" type="DartCommandLineRunConfigurationType" factoryName="Dart Command Line Application" temporary="true" nameIsGenerated="true">
       <option name="filePath" value="$PROJECT_DIR$/Arquivos3/parametros.dart" />
       <option name="workingDirectory" value="$PROJECT_DIR$/Arquivos3" />
@@ -98,11 +99,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Dart Command Line App.ap2.dart" />
         <item itemvalue="Dart Command Line App.ap1.dart" />
         <item itemvalue="Dart Command Line App.funcaoObjetos.dart" />
         <item itemvalue="Dart Command Line App.parametros.dart" />
         <item itemvalue="Dart Command Line App.ap3.dart" />
-        <item itemvalue="Dart Command Line App.funcoes.dart" />
       </list>
     </recent_temporary>
   </component>
