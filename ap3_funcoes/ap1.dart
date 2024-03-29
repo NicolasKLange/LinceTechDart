@@ -23,7 +23,7 @@ void imprimirLista(List<int> lista) {
     print('Lista: ${lista.join(', ')}');
   } else {
     print('Lista vazia');
-  }
+  }   
 }
 
 // Funcao que recebe duas listas, e retorna a soma das listas
