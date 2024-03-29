@@ -10,4 +10,4 @@ void main() {
   var numero = 1;
 
   print("Adicionado 1 ao valor 1 = ${++numero}"); //colocar ++ antes para logo que for imprimir o valor ja somar
-}
+}    
