@@ -3,24 +3,26 @@ void main() {
   final listaOriginal = ['Dio', 'Ozzy', 'Max', 'Joseph', 'Jack', 'Caesar', 'Michael'];
 
   //Remover item da lista
-  final novaLista = removerElemento(
+  final novaLista = removerNome(
     lista: listaOriginal,
-    elemento: 'Caesar',
+    //nome que deseja remover
+    nome: 'Ozzy',
   );
 
-  // Imprimir lista atualizada
+  // Imprimir a lista atualizada com os nomes removidos
   for (var item in novaLista) {
-    print('Item: $item');
+    print('Nome: $item');
   }
 }
 
-List<String> removerElemento({
+//funcao que remove o nome da lista
+List<String> removerNome({
   List<String>? lista,
-  String? elemento,
+  String? nome,
 }) {
-  // Se a lista nao for nula, remove o element
-  lista?.remove(elemento);
+  // Se a lista nao for nula, remove o nome
+  lista?.remove(nome);
 
   // Se a lista for nula, retorna uma nova lista vazia
-  return lista ?? [];
+  return lista ?? ["lista Vazia!!"];
 }
