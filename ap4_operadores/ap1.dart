@@ -4,13 +4,11 @@ void main() {
 
   // Verificando todos os anos
   for (var ano in anos) {
-    print(anoBissexto(ano)
-        ? 'O ano $ano é bissexto'
-        : 'O ano $ano nao é bissexto');
+    print(ehAnoBissexto(ano) ? 'O ano $ano é bissexto' : 'O ano $ano nao é bissexto');
   }
 }
 
-bool anoBissexto(int ano) {
+bool ehAnoBissexto(int ano) {
   if (ano % 100 == 0) {
     // Anos que terminam em 00 precisam ser divisíveis por 400 para serem bissexto
     return (ano % 400) == 0;

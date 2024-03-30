@@ -5,8 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="f02ddcfa-0b47-4b12-82ac-176d3e381c76" name="Changes" comment="Atividade 1 variaveis">
-      <change afterPath="$PROJECT_DIR$/ap4_operadores/ap1.dart" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ap4_operadores/ap2.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ap4_operadores/ap3.dart" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -71,7 +70,7 @@
       <recent name="C:\Users\Pichau\Desktop\Dart\TreinoDart\Arquivos" />
     </key>
   </component>
-  <component name="RunManager" selected="Dart Command Line App.ap2.dart">
+  <component name="RunManager" selected="Dart Command Line App.ap1.dart (1)">
     <configuration name="ap1.dart (1)" type="DartCommandLineRunConfigurationType" factoryName="Dart Command Line Application" temporary="true" nameIsGenerated="true">
       <option name="filePath" value="$PROJECT_DIR$/ap4_operadores/ap1.dart" />
       <option name="workingDirectory" value="$PROJECT_DIR$/ap4_operadores" />
@@ -99,8 +98,8 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Dart Command Line App.ap2.dart" />
         <item itemvalue="Dart Command Line App.ap1.dart (1)" />
+        <item itemvalue="Dart Command Line App.ap2.dart" />
         <item itemvalue="Dart Command Line App.expreCondicionais.dart" />
         <item itemvalue="Dart Command Line App.opTesteTipo.dart" />
         <item itemvalue="Dart Command Line App.opAritmeticos.dart" />
