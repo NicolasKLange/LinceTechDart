@@ -5,7 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="f02ddcfa-0b47-4b12-82ac-176d3e381c76" name="Changes" comment="Atividade 1 variaveis">
-      <change afterPath="$PROJECT_DIR$/ap5_logica/ap2.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ap5_logica/ap3.dart" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -71,7 +71,7 @@
       <recent name="C:\Users\Pichau\Desktop\Dart\TreinoDart\Arquivos" />
     </key>
   </component>
-  <component name="RunManager" selected="Dart Command Line App.ap2.dart">
+  <component name="RunManager" selected="Dart Command Line App.ap3.dart">
     <configuration name="ap1.dart" type="DartCommandLineRunConfigurationType" factoryName="Dart Command Line Application" temporary="true" nameIsGenerated="true">
       <option name="filePath" value="$PROJECT_DIR$/ap5_logica/ap1.dart" />
       <option name="workingDirectory" value="$PROJECT_DIR$/ap5_logica" />
@@ -82,9 +82,9 @@
       <option name="workingDirectory" value="$PROJECT_DIR$/ap5_logica" />
       <method v="2" />
     </configuration>
-    <configuration name="breakContinue.dart" type="DartCommandLineRunConfigurationType" factoryName="Dart Command Line Application" temporary="true" nameIsGenerated="true">
-      <option name="filePath" value="$PROJECT_DIR$/Arquivos5/breakContinue.dart" />
-      <option name="workingDirectory" value="$PROJECT_DIR$/Arquivos5" />
+    <configuration name="ap3.dart" type="DartCommandLineRunConfigurationType" factoryName="Dart Command Line Application" temporary="true" nameIsGenerated="true">
+      <option name="filePath" value="$PROJECT_DIR$/ap5_logica/ap3.dart" />
+      <option name="workingDirectory" value="$PROJECT_DIR$/ap5_logica" />
       <method v="2" />
     </configuration>
     <configuration name="switchCase.dart" type="DartCommandLineRunConfigurationType" factoryName="Dart Command Line Application" temporary="true" nameIsGenerated="true">
@@ -99,11 +99,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Dart Command Line App.ap3.dart" />
         <item itemvalue="Dart Command Line App.ap2.dart" />
         <item itemvalue="Dart Command Line App.ap1.dart" />
         <item itemvalue="Dart Command Line App.switchCase.dart" />
         <item itemvalue="Dart Command Line App.switch.dart" />
-        <item itemvalue="Dart Command Line App.breakContinue.dart" />
       </list>
     </recent_temporary>
   </component>
