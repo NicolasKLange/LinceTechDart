@@ -21,4 +21,4 @@ List<int> numerosImpares(int maximo) {
     contador++;
   }
   return sequencia;
-}
+}  
