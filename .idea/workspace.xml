@@ -5,8 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="f02ddcfa-0b47-4b12-82ac-176d3e381c76" name="Changes" comment="Atividade 1 variaveis">
-      <change afterPath="$PROJECT_DIR$/Arquivos5/switchCase.dart" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Arquivos5/switchCase.dart" beforeDir="false" afterPath="$PROJECT_DIR$/Arquivos5/switchCase.dart" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -72,11 +72,6 @@
     </key>
   </component>
   <component name="RunManager" selected="Dart Command Line App.switchCase.dart">
-    <configuration name="ap5.dart" type="DartCommandLineRunConfigurationType" factoryName="Dart Command Line Application" temporary="true" nameIsGenerated="true">
-      <option name="filePath" value="$PROJECT_DIR$/ap4_operadores/ap5.dart" />
-      <option name="workingDirectory" value="$PROJECT_DIR$/ap4_operadores" />
-      <method v="2" />
-    </configuration>
     <configuration name="breakContinue.dart" type="DartCommandLineRunConfigurationType" factoryName="Dart Command Line Application" temporary="true" nameIsGenerated="true">
       <option name="filePath" value="$PROJECT_DIR$/Arquivos5/breakContinue.dart" />
       <option name="workingDirectory" value="$PROJECT_DIR$/Arquivos5" />
@@ -97,13 +92,18 @@
       <option name="workingDirectory" value="$PROJECT_DIR$/Arquivos5" />
       <method v="2" />
     </configuration>
+    <configuration name="switch.dart" type="DartCommandLineRunConfigurationType" factoryName="Dart Command Line Application" temporary="true" nameIsGenerated="true">
+      <option name="filePath" value="$PROJECT_DIR$/Arquivos5/switch.dart" />
+      <option name="workingDirectory" value="$PROJECT_DIR$/Arquivos5" />
+      <method v="2" />
+    </configuration>
     <recent_temporary>
       <list>
         <item itemvalue="Dart Command Line App.switchCase.dart" />
+        <item itemvalue="Dart Command Line App.switch.dart" />
         <item itemvalue="Dart Command Line App.breakContinue.dart" />
         <item itemvalue="Dart Command Line App.comandoRepeticao.dart" />
         <item itemvalue="Dart Command Line App.comandoCondi.dart" />
-        <item itemvalue="Dart Command Line App.ap5.dart" />
       </list>
     </recent_temporary>
   </component>
