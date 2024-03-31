@@ -15,7 +15,7 @@ void main() {
 }
 
 String pegarLetra(int numero) {
-  int valorLetra = 'A'.codeUnitAt(0); //Numero do alfabeto da letra A
+  int valorLetra = 'A'.codeUnitAt(0); // .codeUnitAt obtem o valor Unicode de um caractere em uma determinada posição dentro de uma string.
   int codLetra = valorLetra + numero - 1;
   return String.fromCharCode(codLetra);
 }
