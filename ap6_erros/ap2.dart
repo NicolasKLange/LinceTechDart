@@ -13,4 +13,4 @@ void programa(int numero) {
   if (numero.isOdd) {
     throw Exception('Entrada inválida. Insira apenas números pares');
   }
-}    
+}
