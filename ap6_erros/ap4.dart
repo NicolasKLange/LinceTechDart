@@ -15,7 +15,7 @@ void main() {
 
 abstract class Arquivo {
   void abrir();
-}
+}   
 
 class ArquivoTexto implements Arquivo {
   ArquivoTexto(this.nome);
