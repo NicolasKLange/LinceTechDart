@@ -3,7 +3,7 @@ void main() {
   programa('letras');
 
   // Executar a função de forma bem sucedida
-  programa('9999');
+  programa('1235');
 }
 
 void programa(String valor) {
