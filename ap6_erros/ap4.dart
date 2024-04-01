@@ -30,6 +30,6 @@ class ArquivoTexto implements Arquivo {
     } catch (e) {
       print('Relançar a exception');
       rethrow;
-    }
+    }   
   }
 }
