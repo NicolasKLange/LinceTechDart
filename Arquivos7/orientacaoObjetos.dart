@@ -13,7 +13,7 @@ void main() {
 //classe do funcionario
 class Funcionario{
   String nomeFunc   = "Nicolas Lange";
-  int    idadeFunc  = 17;
+  int    idadeFunc  = 17;  
   double salrioFunc = 1200.00;
   bool   contaAtivo = true;
 
