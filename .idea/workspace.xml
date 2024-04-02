@@ -70,9 +70,14 @@
       <recent name="C:\Users\Pichau\Desktop\Dart\TreinoDart\Arquivos" />
     </key>
   </component>
-  <component name="RunManager" selected="Dart Command Line App.ap1.dart (1)">
+  <component name="RunManager" selected="Dart Command Line App.ap2.dart">
     <configuration name="ap1.dart (1)" type="DartCommandLineRunConfigurationType" factoryName="Dart Command Line Application" temporary="true" nameIsGenerated="true">
       <option name="filePath" value="$PROJECT_DIR$/ap7_oop1/ap1.dart" />
+      <option name="workingDirectory" value="$PROJECT_DIR$/ap7_oop1" />
+      <method v="2" />
+    </configuration>
+    <configuration name="ap2.dart" type="DartCommandLineRunConfigurationType" factoryName="Dart Command Line Application" temporary="true" nameIsGenerated="true">
+      <option name="filePath" value="$PROJECT_DIR$/ap7_oop1/ap2.dart" />
       <option name="workingDirectory" value="$PROJECT_DIR$/ap7_oop1" />
       <method v="2" />
     </configuration>
@@ -91,18 +96,13 @@
       <option name="workingDirectory" value="$PROJECT_DIR$/Arquivos7" />
       <method v="2" />
     </configuration>
-    <configuration name="orientacaoObjetos.dart" type="DartCommandLineRunConfigurationType" factoryName="Dart Command Line Application" temporary="true" nameIsGenerated="true">
-      <option name="filePath" value="$PROJECT_DIR$/Arquivos7/orientacaoObjetos.dart" />
-      <option name="workingDirectory" value="$PROJECT_DIR$/Arquivos7" />
-      <method v="2" />
-    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Dart Command Line App.ap2.dart" />
         <item itemvalue="Dart Command Line App.ap1.dart (1)" />
         <item itemvalue="Dart Command Line App.construtores.dart" />
         <item itemvalue="Dart Command Line App.classeAtributo.dart" />
         <item itemvalue="Dart Command Line App.classeMetodos.dart" />
-        <item itemvalue="Dart Command Line App.orientacaoObjetos.dart" />
       </list>
     </recent_temporary>
   </component>
