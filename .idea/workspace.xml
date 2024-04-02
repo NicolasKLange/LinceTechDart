@@ -5,7 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="f02ddcfa-0b47-4b12-82ac-176d3e381c76" name="Changes" comment="Atividade 1 variaveis">
-      <change beforePath="$PROJECT_DIR$/ap6_erros/ap4.dart" beforeDir="false" afterPath="$PROJECT_DIR$/ap6_erros/ap4.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Arquivos7/orientacaoObjetos.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -23,7 +24,7 @@
     </option>
   </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/ap6_erros" />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="GitHubPullRequestSearchHistory">{
   &quot;lastFilter&quot;: {
@@ -58,7 +59,7 @@
     "cf.first.check.clang-format": "false",
     "cidr.known.project.marker": "true",
     "dart.analysis.tool.window.visible": "false",
-    "git-widget-placeholder": "<unknown>",
+    "git-widget-placeholder": "main",
     "last_opened_file_path": "C:/Flutter/flutter/bin/cache/dart-sdk",
     "settings.editor.selected.configurable": "dart.settings",
     "show.migrate.to.gradle.popup": "false"
@@ -70,7 +71,7 @@
       <recent name="C:\Users\Pichau\Desktop\Dart\TreinoDart\Arquivos" />
     </key>
   </component>
-  <component name="RunManager" selected="Dart Command Line App.ap1.dart">
+  <component name="RunManager" selected="Dart Command Line App.orientacaoObjetos.dart">
     <configuration name="ap1.dart" type="DartCommandLineRunConfigurationType" factoryName="Dart Command Line Application" temporary="true" nameIsGenerated="true">
       <option name="filePath" value="$PROJECT_DIR$/ap6_erros/ap1.dart" />
       <option name="workingDirectory" value="$PROJECT_DIR$/ap6_erros" />
@@ -81,14 +82,14 @@
       <option name="workingDirectory" value="$PROJECT_DIR$/ap6_erros" />
       <method v="2" />
     </configuration>
-    <configuration name="ap5.dart" type="DartCommandLineRunConfigurationType" factoryName="Dart Command Line Application" temporary="true" nameIsGenerated="true">
-      <option name="filePath" value="$PROJECT_DIR$/ap5_logica/ap5.dart" />
-      <option name="workingDirectory" value="$PROJECT_DIR$/ap5_logica" />
-      <method v="2" />
-    </configuration>
     <configuration name="lancaExcecoes.dart" type="DartCommandLineRunConfigurationType" factoryName="Dart Command Line Application" temporary="true" nameIsGenerated="true">
       <option name="filePath" value="$PROJECT_DIR$/Arquivos6/lancaExcecoes.dart" />
       <option name="workingDirectory" value="$PROJECT_DIR$/Arquivos6" />
+      <method v="2" />
+    </configuration>
+    <configuration name="orientacaoObjetos.dart" type="DartCommandLineRunConfigurationType" factoryName="Dart Command Line Application" temporary="true" nameIsGenerated="true">
+      <option name="filePath" value="$PROJECT_DIR$/Arquivos7/orientacaoObjetos.dart" />
+      <option name="workingDirectory" value="$PROJECT_DIR$/Arquivos7" />
       <method v="2" />
     </configuration>
     <configuration name="switchCase.dart" type="DartCommandLineRunConfigurationType" factoryName="Dart Command Line Application" temporary="true" nameIsGenerated="true">
@@ -98,11 +99,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Dart Command Line App.orientacaoObjetos.dart" />
         <item itemvalue="Dart Command Line App.ap1.dart" />
         <item itemvalue="Dart Command Line App.ap4.dart (1)" />
         <item itemvalue="Dart Command Line App.lancaExcecoes.dart" />
         <item itemvalue="Dart Command Line App.switchCase.dart" />
-        <item itemvalue="Dart Command Line App.ap5.dart" />
       </list>
     </recent_temporary>
   </component>
