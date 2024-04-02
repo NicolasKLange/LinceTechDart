@@ -5,7 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="f02ddcfa-0b47-4b12-82ac-176d3e381c76" name="Changes" comment="Atividade 1 variaveis">
-      <change afterPath="$PROJECT_DIR$/Arquivos7/classeAtributo.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Arquivos7/construtores.dart" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -71,14 +71,9 @@
       <recent name="C:\Users\Pichau\Desktop\Dart\TreinoDart\Arquivos" />
     </key>
   </component>
-  <component name="RunManager" selected="Dart Command Line App.classeAtributo.dart">
+  <component name="RunManager" selected="Dart Command Line App.construtores.dart">
     <configuration name="ap1.dart" type="DartCommandLineRunConfigurationType" factoryName="Dart Command Line Application" temporary="true" nameIsGenerated="true">
       <option name="filePath" value="$PROJECT_DIR$/ap6_erros/ap1.dart" />
-      <option name="workingDirectory" value="$PROJECT_DIR$/ap6_erros" />
-      <method v="2" />
-    </configuration>
-    <configuration name="ap4.dart (1)" type="DartCommandLineRunConfigurationType" factoryName="Dart Command Line Application" temporary="true" nameIsGenerated="true">
-      <option name="filePath" value="$PROJECT_DIR$/ap6_erros/ap4.dart" />
       <option name="workingDirectory" value="$PROJECT_DIR$/ap6_erros" />
       <method v="2" />
     </configuration>
@@ -92,6 +87,11 @@
       <option name="workingDirectory" value="$PROJECT_DIR$/Arquivos7" />
       <method v="2" />
     </configuration>
+    <configuration name="construtores.dart" type="DartCommandLineRunConfigurationType" factoryName="Dart Command Line Application" temporary="true" nameIsGenerated="true">
+      <option name="filePath" value="$PROJECT_DIR$/Arquivos7/construtores.dart" />
+      <option name="workingDirectory" value="$PROJECT_DIR$/Arquivos7" />
+      <method v="2" />
+    </configuration>
     <configuration name="orientacaoObjetos.dart" type="DartCommandLineRunConfigurationType" factoryName="Dart Command Line Application" temporary="true" nameIsGenerated="true">
       <option name="filePath" value="$PROJECT_DIR$/Arquivos7/orientacaoObjetos.dart" />
       <option name="workingDirectory" value="$PROJECT_DIR$/Arquivos7" />
@@ -99,11 +99,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Dart Command Line App.construtores.dart" />
         <item itemvalue="Dart Command Line App.classeAtributo.dart" />
         <item itemvalue="Dart Command Line App.classeMetodos.dart" />
         <item itemvalue="Dart Command Line App.orientacaoObjetos.dart" />
         <item itemvalue="Dart Command Line App.ap1.dart" />
-        <item itemvalue="Dart Command Line App.ap4.dart (1)" />
       </list>
     </recent_temporary>
   </component>
