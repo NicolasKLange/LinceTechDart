@@ -15,7 +15,7 @@ class Funcionario{
   String nomeFunc   = "Nicolas Lange";
   int    idadeFunc  = 17;
   double salrioFunc = 1200.00;
-  bool   contaAtivo = true;   
+  bool   contaAtivo = true;
 
   void registrarPonto(){
     print("Horario: ${DateTime.now()}"); // DateTime.now() > usado para dar a data e horario de agora
