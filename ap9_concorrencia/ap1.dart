@@ -29,4 +29,4 @@ Future<String> consultarAPI(String codigoRastreamento) async {
 Future<void> verificarStatusEntrega(String codigoRastreamento) async {
   String status = await consultarAPI(codigoRastreamento);
   print('Status de entrega do pacote $codigoRastreamento: $status');
-}
+}      
